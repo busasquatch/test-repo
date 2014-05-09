@@ -1,0 +1,30 @@
+[33mcommit c7f684f64b7b3590ee89e92e6600b169b97c0f85[m
+Merge: 0fc2e67 a167089
+Author: busasquatch <brian.zive@gmail.com>
+Date:   Wed May 7 16:04:08 2014 -0400
+
+    Merge branch 'master' of https://github.com/busasquatch/test-repo
+
+[33mcommit 0fc2e6783204664bdf79ad657ab4674731d906fb[m
+Author: busasquatch <brian.zive@gmail.com>
+Date:   Wed May 7 16:01:12 2014 -0400
+
+    edited test.md
+
+[33mcommit 08ead4445e5ec9109474c4d83b46b5a8ce4be231[m
+Author: busasquatch <brian.zive@gmail.com>
+Date:   Wed May 7 15:58:31 2014 -0400
+
+    editied test.md
+
+[33mcommit b42a5c178f1e6624938d75a17ea096553134292c[m
+Author: busasquatch <brian.zive@gmail.com>
+Date:   Wed May 7 15:47:50 2014 -0400
+
+    add new file test.md
+
+[33mcommit a16708929b9fba44ff29f8186f3cf8b330991c3d[m
+Author: busasquatch <busasquatch@users.noreply.github.com>
+Date:   Wed May 7 07:03:10 2014 -0700
+
+    Initial commit
